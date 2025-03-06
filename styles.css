@@ -1,0 +1,28 @@
+        
+    </style>
+</head>
+<body>
+    
+
+<div class="container">
+        <h2>Browse Categories</h2>
+        <div class="categories">
+            <div class="category">Music</div>
+            <div class="category">Business</div>
+            <div class="category">Food & Drink</div>
+            <div class="category">Arts</div>
+            <div class="category">Education</div>
+            <div class="category">Health</div>
+            <div class="category">Community</div>
+            <div class="category">Travel</div>
+        </div>
+        
+        <h2>Featured Event</h2>
+        <div class="featured-event">
+            <img src="event-image.jpg" alt="Tech Conference 2023">
+            <div class="event-title">Tech Conference 2023: The Future of AI</div>
+            <div class="event-details">Dec 15, 2023 | 9:00 AM - 6:00 PM | San Francisco Tech Center</div>
+            <p>Join us for the biggest tech conference of the year exploring artificial intelligence, machine learning, and the future of technology. Network with industry leaders and gain valuable insights.</p>
+            <a href="#" class="event-btn">Get Tickets</a>
+        </div>
+    </div>
